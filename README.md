@@ -6,6 +6,7 @@ This repository contains the SQL schema for an e-commerce platform database. The
 ## ERD (Entity-Relationship Diagram)
 
 
+![Untitled (1)](https://github.com/user-attachments/assets/5bdcb959-fb70-44d8-84f5-679e239a92bd)
 
 
 
