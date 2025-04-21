@@ -3,7 +3,7 @@
 This repository contains the SQL schema for an e-commerce platform database. The schema is designed to handle various aspects of an e-commerce system, including product management, categories, attributes, variations, and more.
 
 
-ERD (Entity-Relationship Diagram)
+## ERD (Entity-Relationship Diagram)
 
 
 
