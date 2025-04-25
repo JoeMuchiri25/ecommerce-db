@@ -66,5 +66,5 @@ The database is named `ecommerce` and consists of the following tables:
 - **Custom Attributes**: Allows products to have custom attributes grouped by categories and types.
 - **Image Management**: Supports multiple images per product with primary image designation and display order.
 
-
+![ERD Diagram] (https://github.com/JoeMuchiri25/ecommerce-db/blob/d3466a3f48936c3bc384d6248c2f8e53438c9c83/Ecommerce_ERD%20Diagram.png)
 
